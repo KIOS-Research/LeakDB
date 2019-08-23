@@ -388,7 +388,7 @@ if __name__ == '__main__':
     scArray = range(1, NumScenarios+1)
     
     numCores = multiprocessing.cpu_count()
-    p = multiprocessing.Pool(100)
+    p = multiprocessing.Pool(numCores)
     p.map(runScenarios, list(range(1, NumScenarios)))
     p.close()
     p.join()
