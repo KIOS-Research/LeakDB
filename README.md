@@ -11,7 +11,7 @@ Download the folder LeakDB, set the run path in Matlab to CCWI-WDSA2018, and run
 # Download the complete dataset
 The LeakDB dataset is currently being expanded, as more networks, detection algorithms and features are added.
 The complete dataset is provided in the following link: 
-https://goo.by/AZlhX
+https://goo.by/j1Gpg
 
 # Cite as:
 Vrachimis, S. G., Kyriakou, M. S., Eliades, D. G. and Polycarpou, M. M. (2018). LeakDB : A benchmark dataset for leakage diagnosis in water distribution networks. In Proc. of WDSA / CCWI Joint Conference (Vol. 1).
