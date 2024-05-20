@@ -1,4 +1,6 @@
-<a href="http://www.kios.ucy.ac.cy"><img src="http://www.kios.ucy.ac.cy/templates/favourite/images/kios_logo_hover.png"/><a>
+﻿<a href="http://www.kios.ucy.ac.cy"><img src="https://www.kios.ucy.ac.cy/wp-content/uploads/2021/07/Logotype-KIOS.svg" width="200" height="100"/><a> 
+ 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1313116.svg)](https://doi.org/10.5281/zenodo.1313116)
 
 # LeakDB
 LeakDB (Leakage Diagnosis Benchmark) is a realistic leakage dataset for water distribution networks.
@@ -13,5 +15,5 @@ The LeakDB dataset is currently being expanded, as more networks, detection algo
 The complete dataset is provided: [DATASET](https://ucy-my.sharepoint.com/:f:/g/personal/mkiria01_ucy_ac_cy/Eiyah0-TL4dGqt9K4Ln5TN0BRlroASbX35p53bS7or4j5A)
 
 # Cite as:
-Vrachimis, S. G., Kyriakou, M. S., Eliades, D. G. and Polycarpou, M. M. (2018). LeakDB : A benchmark dataset for leakage diagnosis in water distribution networks. In Proc. of WDSA / CCWI Joint Conference (Vol. 1).
+Vrachimis, S. G., Kyriakou, M. S., Eliades, D. G. and Polycarpou, M. M. (2018). LeakDB: A benchmark dataset for leakage diagnosis in water distribution networks. In Proc. of WDSA / CCWI Joint Conference (Vol. 1).
 
